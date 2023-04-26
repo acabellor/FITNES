@@ -20,14 +20,16 @@ p {
 }
 .large {
     color: white;
-    background-image: url('/html-master/images/bc79a4fe9aa1f6e56f5d00a01ad0dae2.jpg');
+    background-image: url('images/bc79a4fe9aa1f6e56f5d00a01ad0dae2.jpg');
     background-size: auto;
   }
   div.larg {
     color: white;
-    background-image: url('../images/fit.jpeg');
-    height: 300;
-
+    background-image: url('images/bc79a4fe9aa1f6e56f5d00a01ad0dae2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1200px; 
+    background-size:contain;
   }
   .side {
     color: orange;
